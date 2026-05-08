@@ -4,16 +4,16 @@ This repository contains the code, datasets and outputs used for the Principles 
 
 ## Repository structure
 
-### raw_datasets
+### raw_data
 The Original downloaded crime datasets, which includes additional offence catergories and records with missing data.
 
-### altered_datasets
+### altered_crime_data
 The crime data that has been altered and cleaned by removing missing data and irrelavent catergories.
 
 ### Disparity_data
 This is the csv file of disparity data.
 
-### code
+### Crime_code
 The notebook used for spatial analysis.
 
 ## Data sources
